@@ -87,8 +87,10 @@
     <Compile Include="Assets\II ROK\AnimDesync.cs" />
     <Compile Include="Assets\II ROK\Animacje - poruszanie\Lookat\LookatManual.cs" />
     <Compile Include="Assets\II ROK\Animacje - poruszanie\Lookat\LookatSimple.cs" />
+    <Compile Include="Assets\II ROK\Animacje - poruszanie\Lookat\TurretLookat.cs" />
     <Compile Include="Assets\II ROK\NavGenerator\NavGenerator.cs" />
     <Compile Include="Assets\II ROK\Player\Follow.cs" />
+    <Compile Include="Assets\II ROK\Player\LayerWeight.cs" />
     <Compile Include="Assets\II ROK\Player\MovementBase.cs" />
     <Compile Include="Assets\II ROK\Player\NavAgentInput.cs" />
     <Compile Include="Assets\II ROK\Player\SimpleMovement.cs" />
